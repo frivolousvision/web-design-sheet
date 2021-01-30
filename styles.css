@@ -1,0 +1,176 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.6rem;
+}
+/* ---- HEADER ---- */
+header {
+    position: relative;
+    top: 0;
+    font-family: "Bungee Shade";
+    font-size: 40px;
+    background-color: sandybrown;
+    width: 100%;
+    height: 110px;
+    padding: 1px 20px;
+    filter: drop-shadow(1px 1px 1px rgb(129, 39, 39));
+}
+header h1 {
+    margin: 0px 20px;
+}
+h1 {
+    padding-left: 20px;
+}
+/* ---- COLORS ---- */
+h2 {
+    font-family: "Bungee Shade";    
+}
+.colors {
+    margin: 20px 60px;
+    padding: 20px 0;   
+}
+.color-styling {
+    border: 2px solid black;
+    filter: drop-shadow(1px 1px 1px black);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    max-width: 100%;
+    padding: 20px 0;    
+}
+.color-size {
+    font-family: BioRhyme;
+    color: white;
+    max-width: 200px;
+    min-width: 200px;
+    max-height: 200px;
+    min-height: 200px;
+    text-align: center; 
+}
+.surly-mint {
+    background-color: rgb(132, 214, 156);   
+}
+.crimson-king {
+    background-color: rgb(173, 0, 0);    
+}
+.gore-club {
+    background-color: rgba(87, 13, 13, 0.842);
+}
+.burnt-navel {
+    background-color: rgb(167, 124, 7);
+}
+/* ---- FONTS ---- */
+h2 {
+    font-family: "Bungee Shade";    
+}
+.fonts {
+    margin: 20px 60px;
+    padding: 20px 0;   
+}
+.font-formatting {
+    border: 2px solid black;
+    filter: drop-shadow(1px 1px 1px black);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    max-width: 100%;
+    padding: 20px 0;    
+}
+
+.font-size {
+    font-family: BioRhyme;
+    color: white;
+    max-width: 200px;
+    min-width: 200px;
+    min-height: 200px;
+    text-align: center;
+    padding: 10px 10px 
+}
+.font-title {
+    text-decoration: underline;  
+    font-size: 32px;
+
+}
+.space-grotesk {
+    font-family: "Space Grotesk";
+    background-color: rgb(73, 75, 74); 
+}
+.biorhyme {
+    font-family: Biorhyme;
+    background-color: rgb(73, 75, 74);  
+
+}
+.montserrat {
+    font-family: Montserrat;
+    background-color: rgb(73, 75, 74); 
+}
+.playfair {
+    font-family: "Playfair Display";
+    background-color: rgb(73, 75, 74);   
+}
+.thin {
+    font-weight: 300;
+}
+.playfair .thin {
+    font-weight: 400;
+}
+.playfair .regular {
+    font-weight: 600;
+}
+.regular {
+    font-weight: 400;
+}
+.bold {
+    font-weight: 900;
+}
+/* -----TEXT STYLES------ */
+.text-style-formatting p {
+    font-family:"Space Grotesk";
+    color: white;
+    margin-left: 20px;
+}
+.text-style {
+    margin: 20px 60px;
+    padding: 20px 0;   
+}
+.text-style-formatting {
+    border: 2px solid black;
+    filter: drop-shadow(1px 1px 1px black);
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    max-width: 100%;
+    padding: 20px 0;    
+}
+.text-heading-size {
+    background-color: rgb(131, 131, 131);
+    margin: 20px;   
+
+}
+.text-heading {
+    font-family: "Bungee Shade";
+    font-size: 50px;
+
+}
+.text-subheading-size {
+    background-color: rgb(131, 131, 131);  
+    margin: 20px; 
+
+}
+.text-subheading {
+    font-family: Biorhyme;
+    font-size: 32px;
+    font-weight: 700;
+}
+.text-paragraph-size {
+    background-color: rgb(131, 131, 131); 
+    margin: 20px;  
+
+}
+.text-paragraph {
+    font-family: "Space Grotesk";
+    font-size: 32px;
+}
